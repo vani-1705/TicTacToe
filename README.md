@@ -1,4 +1,11 @@
 # ❌⭕ Tic Tac Toe Game (Python + Tkinter)
+# GAME LOGIC:
+-In this game any 2 players can play game.
+-If any row or column completes with X or O then they are winners.
+-After finishing game u can restart game.
+
+# GAME IDEA:
+This idea is basic game everyone knows that but based on placing X or O the player can win game.
 
 A simple 2-player Tic Tac Toe game built using Python's Tkinter GUI library. Classic X vs O game with a clean 3x3 button grid, winner detection, and draw handling.
 
